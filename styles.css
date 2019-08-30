@@ -1,7 +1,9 @@
 html {
   background-color: black;
 }
-{font-family: cursive;
+html {
+  font-family:cursive;
 }
-body{ color:red;
+body {
+  color: red;
 }
