@@ -1,12 +1,14 @@
+/*background colour*/
 html
 {
   background-color: black;
 }
+/*Text alignment*/
 html
   {
     text-align: center;
   }
-}
+/*font*/
 html {
   font-family:cursive;
 }
