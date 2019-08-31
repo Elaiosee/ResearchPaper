@@ -1,4 +1,8 @@
-html {
+html
+{
+  text-align: center;
+}
+  {
   background-color: black;
 }
 html {
@@ -8,4 +12,3 @@ body {
   color: red;
 }
 div{font-size-adjust:0.58;
-}
