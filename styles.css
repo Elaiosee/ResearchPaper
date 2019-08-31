@@ -1,9 +1,10 @@
 html
-{
-  text-align: center;
-}
   {
   background-color: black;
+  }
+  {
+    text-align: center;
+  }
 }
 html {
   font-family:cursive;
