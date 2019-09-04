@@ -10,8 +10,9 @@ html
   }
 /*font*/
 html {
-  font-family:"Advancements in Technology":cursive;
+  font-family:"Advancements in Technology"
 }
+p{font-family: Lucida-Console;}
 body {
   color: rgb(80,78,150);
 }
