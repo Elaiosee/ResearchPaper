@@ -1,20 +1,30 @@
 /*background colour*/
-html
-{
+html {
   background-color: black;
 }
+
 /*Text alignment*/
-html
-  {
-    text-align: center;
-  }
+html {
+  text-align: center;
+}
+
 /*font*/
 html {
-  font-family:"Advancements in Technology"
+  font-family: "Advancements in Technology"
 }
-p{font-family: Lucida-Console;}
+
+.arial {
+  font-family: arial
+}
+
 body {
-  color: rgb(80,78,150);
+  color: rgb(80, 78, 150);
 }
-div{font-size-adjust:1.00;}
-header{font-size: 16px}
+
+div {
+  font-size-adjust: 1.00;
+}
+
+header {
+  font-size: 16px
+}
