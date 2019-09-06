@@ -31,3 +31,7 @@ header {
 h2
 {font-family: 'Chilanka', cursive;
 }
+/*id selector2*/
+#h2 {background-color: gray;
+}
+/*class selector*/
