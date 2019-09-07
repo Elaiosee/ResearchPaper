@@ -40,5 +40,7 @@ header {
 
   /*type selector*/
   h2, h3 {
-    font family: 'Chilanka', cursive;
+    font family: font-family:
+    'Chilanka', cursive;
+font-family: 'Modak', cursive;
   }
