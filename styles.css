@@ -32,8 +32,10 @@ h2
 {font-family: 'Chilanka', cursive;
 }
 /*id selector2*/
-#heading {color:rgb(39,69,21;)
+#heading {
+  font-family:Impact;
 }
+
 /*class selector*/
 .this-is-weird{
   font-size: 60px;
