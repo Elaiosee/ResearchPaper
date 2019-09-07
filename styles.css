@@ -34,9 +34,9 @@ h2
 /*id selector2*/
 #heading {
   font-family:Impact;
-}
 
 /*class selector*/
-.this-is-weird{
-  font-size: 60px;
+
+.thisisweird
+  font-size:{ 60px;
 }
