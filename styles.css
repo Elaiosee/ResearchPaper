@@ -35,4 +35,6 @@ h2
 #Tremalo-Bar {background-color: gray;
 }
 /*class selector*/
-.this-is-weird{font-size: 60px;}
+.this-is-weird{
+  font-size: 60px;
+}
