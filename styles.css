@@ -28,14 +28,17 @@ div {
 header {
   font-size: 16px
 }
-h2
-{font-family: 'Chilanka', cursive;
-}
+
+
+
 /*id selector2*/
 #heading {
-  font-family:Impact;
+  font-family: Impact;
 
-/*class selector*/
+  /*class selector*/
+  .thisisweird {
+    font-size: 60px
+  }
 
-.thisisweird{
-  font-size:60px}
+  /*type selector*/
+  h2,h3{font family:'Chilanka', cursive;}
